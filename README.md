@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=six-words-to-a-payday)
 [![rank](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/zp1206849221-sketch/six-words-to-a-payday/rank.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=six-words-to-a-payday)
-[![reward](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/reward.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=six-words-to-a-payday)
+[![reward](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/zp1206849221-sketch/six-words-to-a-payday/reward.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=six-words-to-a-payday)
 
 # Six Words to a Payday
 
